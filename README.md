@@ -20,12 +20,12 @@ To change the cursor theme also use the GTK/QT theming apps but do not forget to
 
 Make sure you have git installed
 
-´´´
+```
 cd ~/
 git clone https://github.com/luky2110/luky-purple-hyprland-dots.git
 mv luky-purple-hyprland-dots/* .config
 rm -rf luky-purple-hyprland-dots
-´´´
+```
 
 # Recommended Apps/Dependencies
 
