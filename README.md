@@ -35,16 +35,17 @@ sudo dnf install
 
 # Credits
 
-The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly .
-The Wofi Config is also vibe coded CSS slop, my own mind and mostly.
+The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly https://github.com/TheFrankyDoll/win10-style-waybar.
+
+The Wofi Config is also vibe coded CSS slop and some of my own mind.
 
 The Alacritty Config is also vibe coded slop.
 
 The Hyprland Config is fully human written.
 
-The Dunst Config is 99% .... but i just rewrote the colors.
+The Dunst Config is 99% https://github.com/FuzzyGrim/dotfiles/tree/master/.config/dunst but i just rewrote the colors.
 
-The Fastfetch Config is essentialy also just ... but I changed it a little.
+The Fastfetch Config is essentialy also just from someone else (idk from whom tho pls tell me if you know) ofc changed a little.
 
 The Hyprland config is fully written by myself and the hyprland team/contributor
 
