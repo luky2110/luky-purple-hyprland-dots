@@ -6,10 +6,16 @@ This is mostly vibe coded slop exept for the hyprland.conf
 
 # Credits
 
-The Waybar config is a some vibe coded CSS slop, some of my own mind and mostly https://github.com/Prateek7071/dotfiles.
-The Wofi config is also vibe coded CSS slop, my own mind and mostly.
+The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly https://github.com/Prateek7071/dotfiles.
+The Wofi Config is also vibe coded CSS slop, my own mind and mostly.
 
-The Alacritty config is also vibe coded slop.
+The Alacritty Config is also vibe coded slop.
+
+The Hyprland Config is fully human written.
+
+The Dunst Config is 99% .... but i just rewrote the colors.
+
+The Fastfetch Config is essentialy also just ... but I changed it a little.
 
 The Hyprland config is fully written by myself and the hyprland team/contributor
 
