@@ -58,7 +58,7 @@ file-roller (Archive Manager/Exctracting Software)
 
 Some stuff you may need can be found at https://www.youtube.com/@lukyboy2110
 
-Some examples would be: Setup Monitors, Setup Default Applications..
+Some examples would be: Setup Monitors, Setup Default Applications.
 
 # Credits
 
