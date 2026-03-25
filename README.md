@@ -15,6 +15,25 @@ To change the Icon theme use all the QT/GTK theming apps.
 To change the cursor theme also use the GTK/QT theming apps but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl setcursor your-cursor-theme size```
 
 
+# Shortcuts
+
+Super + Space = App Launcher
+
+Super + Q = Close App
+
+Super + Shift + E = Close hyprland
+
+Super + B = Browser
+
+Super + S = Screenshot
+
+Super + F = Fullscreen
+
+Super + NUMBER = Workspace X
+
+Super + Shift + NUMBER = Switch to Workspace X and take the window with you
+
+Super + B = Browser
 
 # Installation
 
