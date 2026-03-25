@@ -31,7 +31,7 @@ rm -rf luky-purple-hyprland-dots
 
 Arch
 ```
-sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaper hyprshot alacritty dunst wofi waybar
+sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaper hyprshot alacritty dunst wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol
 ```
 
 Ubuntu
@@ -43,6 +43,14 @@ Fedora
 ```
 sudo dnf install
 ```
+
+List of apps I'd also recommend:
+
+loupe (Image Viewer GTK based)
+vlc (Media Player)
+mpv (Lightweight Media Player) (less features than vlc)
+file-roller (Archive Manager/Exctracting Software)
+
 
 # Credits
 
