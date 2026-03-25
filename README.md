@@ -54,6 +54,11 @@ mpv (Lightweight Media Player) (less features than vlc)
 
 file-roller (Archive Manager/Exctracting Software)
 
+# Tutorials
+
+Some stuff you may need can be found at https://www.youtube.com/@lukyboy2110
+
+Some examples would be: Setup Monitors, Setup Default Applications..
 
 # Credits
 
