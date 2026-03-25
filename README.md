@@ -18,6 +18,17 @@ To change the cursor theme also use the GTK/QT theming apps but do not forget to
 
 # Installation
 
+Make sure you have git installed
+
+´´´
+cd ~/
+git clone https://github.com/luky2110/luky-purple-hyprland-dots.git
+mv luky-purple-hyprland-dots/* .config
+rm -rf luky-purple-hyprland-dots
+´´´
+
+# Recommended Apps/Dependencies
+
 Arch
 ```
 sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaper hyprshot alacritty dunst wofi waybar
