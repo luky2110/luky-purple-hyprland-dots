@@ -33,13 +33,17 @@ Arch
 ```
 sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaper hyprshot alacritty dunst wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol ttf-jetbrains-mono-nerd hyprpolkitagent
 ```
-
-Ubuntu
+After that run
+```
+systemctl --user enable --now hyprpolkitagent.service
+systemctl --user enable --now dunst
+```
+Ubuntu (Maybe one day)
 ``` 
 sudo apt install
 ```
 
-Fedora
+Fedora (Maybe one day)
 ```
 sudo dnf install
 ```
