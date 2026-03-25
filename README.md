@@ -23,7 +23,7 @@ sudo dnf install
 
 # Credits
 
-The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly https://github.com/Prateek7071/dotfiles.
+The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly .
 The Wofi Config is also vibe coded CSS slop, my own mind and mostly.
 
 The Alacritty Config is also vibe coded slop.
