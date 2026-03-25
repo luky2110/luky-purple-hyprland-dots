@@ -27,7 +27,7 @@ mv luky-purple-hyprland-dots/* .config
 rm -rf luky-purple-hyprland-dots
 ```
 
-# Recommended Apps/Dependencies
+# Important Apps
 
 Arch
 ```
@@ -44,11 +44,14 @@ Fedora
 sudo dnf install
 ```
 
-List of apps I'd also recommend:
+# List of apps I'd also recommend:
 
 loupe (Image Viewer GTK based)
+
 vlc (Media Player)
+
 mpv (Lightweight Media Player) (less features than vlc)
+
 file-roller (Archive Manager/Exctracting Software)
 
 
