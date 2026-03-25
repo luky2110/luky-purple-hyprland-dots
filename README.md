@@ -3,12 +3,24 @@ These are my hyprland dots.
 If you do not like them, change or do not use them.
 
 This is mostly vibe coded slop exept for the hyprland.conf
+# QT/GTK/Icon/Cursor themes
+
+To change the qt theme use qt5ct & qt6ct.
+I recommend the "darker" theme.
+
+To change the GTK theme use nwg-look. I recommend the Mint-Y-Dark theme.
+
+To change the Icon theme use all the QT/GTK theming apps.
+
+To change the cursor theme also use the GTK/QT theming apps but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl ```
+
+
 
 # Installation
 
 Arch
 ```
-sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaprr hyorshot alacritty dunst wofi waybar
+sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaper hyprshot alacritty dunst wofi waybar
 ```
 
 Ubuntu
