@@ -12,7 +12,7 @@ To change the GTK theme use nwg-look. I recommend the Mint-Y-Dark theme.
 
 To change the Icon theme use all the QT/GTK theming apps.
 
-To change the cursor theme also use the GTK/QT theming apps but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl ```
+To change the cursor theme also use the GTK/QT theming apps but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl setcursor your-cursor-theme size```
 
 
 
