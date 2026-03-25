@@ -7,13 +7,19 @@ This is mostly vibe coded slop exept for the hyprland.conf
 # Installation
 
 Arch
-``` sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaprr hyorshot alacritty dunst wofi waybar```
+```
+sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaprr hyorshot alacritty dunst wofi waybar
+```
 
 Ubuntu
-``` sudo apt install ```
+``` 
+sudo apt install
+```
 
 Fedora
-```sudo dnf install```
+```
+sudo dnf install
+```
 
 # Credits
 
