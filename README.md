@@ -4,6 +4,17 @@ If you do not like them, change or do not use them.
 
 This is mostly vibe coded slop exept for the hyprland.conf
 
+# Installation
+
+Arch
+``` sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland hyprpaprr hyorshot alacritty dunst wofi waybar```
+
+Ubuntu
+``` sudo apt install ```
+
+Fedora
+```sudo dnf install```
+
 # Credits
 
 The Waybar Config is a some vibe coded CSS slop, some of my own mind and mostly https://github.com/Prateek7071/dotfiles.
