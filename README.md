@@ -33,8 +33,6 @@ Super + NUMBER = Workspace X
 
 Super + Shift + NUMBER = Switch to Workspace X and take the window with you
 
-Super + B = Browser
-
 # Installation
 
 Make sure you have git installed
