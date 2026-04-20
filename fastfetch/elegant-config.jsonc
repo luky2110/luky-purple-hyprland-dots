@@ -75,13 +75,13 @@
         },
         "break",
         {
-            "type": "de",
-            "key": " DE ",
+            "type": "wm",
+            "key": " WM ",
             "keyColor": "blue"
         },
         {
-            "type": "wm",
-            "key": " WM ",
+            "type": "de",
+            "key": "│ ├ ",
             "keyColor": "blue"
         },
         {
