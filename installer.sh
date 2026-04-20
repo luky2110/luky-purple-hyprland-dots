@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 mv alacritty/* ~/.config
 mv fastfetch/* ~/.config
