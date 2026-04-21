@@ -1,4 +1,5 @@
 # Luky's Purple Hyprland Dots
+
 These are my hyprland dots.
 If you do not like them, change or do not use them.
 
@@ -9,9 +10,9 @@ I recommend the "darker" theme.
 
 To change the GTK theme use nwg-look. I recommend the Mint-Y-Dark theme.
 
-To change the Icon theme use all the QT/GTK theming apps.
+To change the Icon theme use the QT/GTK theming apps.
 
-To change the cursor theme also use the GTK/QT theming apps but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl setcursor your-cursor-theme size```
+To change the cursor theme also use the GTK theming app but do not forget to set the cursor theme to whatever you like in the hyprland.conf in the line: ```exec-once = hyprctl setcursor your-cursor-theme size```
 
 
 # Shortcuts
@@ -85,8 +86,12 @@ Ubuntu
 sudo apt install loupe mpv mpv-mpris file-roller
 ```
 
-# Tutorials
+# Side notes
 
-Some stuff you may need can be found at https://www.youtube.com/@lukyboy2110
+Once you've figured out what your display names are, remember them or write them down.
+The names are correspondent to the slot of the GPU -> If you use the same cable and screen but plug it into a different HDMI/DP slot, the name will change. If you use the same slot but a different screen, the name should also still be the same.
 
-Some examples would be: Setup Monitors, Setup Default Applications.
+I would keep the Linux Mint GTK theme, since it has the best compatibility overall. Apps like file-roller do not work with most of the GTK themes I've tried.
+
+I've left some tips on how to do stuff in the hyprland.conf file.
+
