@@ -1,5 +1,11 @@
 #!/bin/bash
 
+rm -rf ~/.config/alacritty
+rm -rf ~/.config/fastfetch
+rm -rf ~/.config/hypr
+rm -rf ~/.config/waybar
+rm -rf ~/.config/wofi
+
 mv alacritty/* ~/.config
 mv fastfetch/* ~/.config
 mv hypr/* ~/.config
