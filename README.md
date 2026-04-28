@@ -95,3 +95,9 @@ I would keep the Linux Mint GTK theme, since it has the best compatibility overa
 
 I've left some tips on how to do stuff in the hyprland.conf file.
 
+# Examples
+
+<img src="https://github.com/luky2110/luky-purple-hyprland-dots/blob/main/example1.png" alt="example1">
+
+<img src="https://github.com/luky2110/luky-purple-hyprland-dots/blob/main/example2.png" alt="example2">
+
