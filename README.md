@@ -46,7 +46,7 @@ systemctl --user enable --now hyprpolkitagent.service
 ```
 Ubuntu
 ``` 
-sudo apt install qt6-wayland qt5ct qt6ct nwg-look xdg-desktop-portal-hyprland hyprland hyprpaper hyprshot alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol polkit
+sudo apt install git qt6-wayland qt5ct qt6ct nwg-look xdg-desktop-portal-hyprland hyprland hyprpaper hyprshot alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol polkit
 ```
 ```
 systemctl --user enable --now polkit.service
