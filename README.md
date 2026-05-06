@@ -65,9 +65,17 @@ chmod +x installer.sh
 hyprctl reload
 ```
 # !IMPORTANT!
+
+To shutdown your PC enter: 
+```
+poweroff
+```
+
+DISPLAY SETTINGS
 Once you've figured out what your display names are, remember them or write them down.
 The names are correspondent to the slot of the GPU -> If you use the same cable and screen but plug it into a different HDMI/DP slot, the name will change. If you use the same slot but a different screen, the name should also still be the same.
 
+KB LAYOUT
 Also your keyboard layout has to be set, it defaults to the us keyboard
 To change it go to line 157 and change kb_layout to yours
 For example ch (swiss german) de (german) fr (french) us (united states) uk (united kindgom)
@@ -95,11 +103,6 @@ sudo apt install loupe mpv mpv-mpris file-roller
 ```
 
 # Side notes
-
-To shutdown your pc enter: 
-```
-poweroff
-```
 
 I would use the Linux Mint GTK theme, since it has the best compatibility overall. Apps like file-roller do not work with most of the GTK themes I've tried.
 
