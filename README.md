@@ -35,23 +35,11 @@ Super + NUMBER = Workspace X
 
 Super + Shift + NUMBER = Switch to Workspace X and take the window with you
 
-# Installation
-
-Make sure you have git installed
-
-```
-cd ~/
-git clone https://github.com/luky2110/luky-purple-hyprland-dots.git
-cd luky-purple-hyprland-dots
-chmod +x installer.sh
-./installer.sh
-```
-
 # Important Programs
 
 Arch
 ```
-sudo pacman -S qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland xdg-desktop-portal-hyprland hyprpaper hyprshot alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol ttf-jetbrains-mono-nerd hyprpolkitagent
+sudo pacman -S git qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland xdg-desktop-portal-hyprland hyprpaper hyprshot alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol ttf-jetbrains-mono-nerd hyprpolkitagent
 ```
 ```
 systemctl --user enable --now hyprpolkitagent.service
@@ -63,6 +51,19 @@ sudo apt install qt6-wayland qt5ct qt6ct nwg-look xdg-desktop-portal-hyprland hy
 ```
 systemctl --user enable --now polkit.service
 ``` 
+
+# Installation
+
+Make sure you have git installed
+
+```
+cd ~/
+git clone https://github.com/luky2110/luky-purple-hyprland-dots.git
+cd luky-purple-hyprland-dots
+chmod +x installer.sh
+./installer.sh
+hyprctl reload
+```
 
 # Recommended Programs:
 
