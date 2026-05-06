@@ -96,6 +96,11 @@ sudo apt install loupe mpv mpv-mpris file-roller
 
 # Side notes
 
+To shutdown your pc enter: 
+```
+poweroff
+```
+
 I would keep the Linux Mint GTK theme, since it has the best compatibility overall. Apps like file-roller do not work with most of the GTK themes I've tried.
 
 I've left some tips on how to do stuff in the hyprland.conf file.
